@@ -1,16 +1,26 @@
 {
   "dependencies": {
     "@expo/metro-runtime": "^3.1.1",
+    "@react-native-community/datetimepicker": "8.0.1",
+    "@react-native-masked-view/masked-view": "0.3.1",
+    "@react-navigation/native-stack": "^6.10.0",
+    "@react-navigation/stack": "^6.4.0",
+    "@types/react": "~18.2.79",
+    "axios": "^1.7.2",
     "expo": "^51.0.0",
     "expo-status-bar": "~1.12.1",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "react-native": "0.74.1",
-    "react-native-reanimated": "3.10.0",
+    "react-native": "^0.74.3",
+    "react-native-date-picker": "^5.0.4",
+    "react-native-datepicker": "^1.7.2",
+    "react-native-gesture-handler": "~2.16.1",
+    "react-native-reanimated": "~3.10.1",
     "react-native-web": "~0.19.6"
   },
   "devDependencies": {
-    "@babel/core": "^7.19.3"
+    "@babel/core": "^7.19.3",
+    "@babel/plugin-proposal-export-namespace-from": "^7.18.9"
   },
   "name": "todofrontend",
   "version": "1.0.0",

@@ -1,4 +1,14 @@
 {
   "name": "todofrontend",
-  "slug": "todofrontend"
+  "slug": "todofrontend",
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "465b4180-0d44-484e-8cf4-60760e14620c"
+      }
+    },
+    "android": {
+      "package": "com.admineirad.todofrontend"
+    }
+  }
 }
